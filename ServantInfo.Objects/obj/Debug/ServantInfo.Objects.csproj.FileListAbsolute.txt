@@ -1,0 +1,6 @@
+C:\Users\Leo\Desktop\Repositorio\ServantInfo\ServantInfoApi\ServantInfo.Objects\bin\Debug\ServantInfo.Objects.dll
+C:\Users\Leo\Desktop\Repositorio\ServantInfo\ServantInfoApi\ServantInfo.Objects\bin\Debug\ServantInfo.Objects.pdb
+C:\Users\Leo\Desktop\Repositorio\ServantInfo\ServantInfoApi\ServantInfo.Objects\obj\Debug\ServantInfo.Objects.csprojAssemblyReference.cache
+C:\Users\Leo\Desktop\Repositorio\ServantInfo\ServantInfoApi\ServantInfo.Objects\obj\Debug\ServantInfo.Objects.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\Repositorio\ServantInfo\ServantInfoApi\ServantInfo.Objects\obj\Debug\ServantInfo.Objects.dll
+C:\Users\Leo\Desktop\Repositorio\ServantInfo\ServantInfoApi\ServantInfo.Objects\obj\Debug\ServantInfo.Objects.pdb

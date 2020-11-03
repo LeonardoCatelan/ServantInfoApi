@@ -1,0 +1,6 @@
+C:\Users\Leo\Desktop\Repositorio\ServantInfo\ServantInfoApi\ServantInfo.Requests\bin\Debug\ServantInfo.Requests.dll
+C:\Users\Leo\Desktop\Repositorio\ServantInfo\ServantInfoApi\ServantInfo.Requests\bin\Debug\ServantInfo.Requests.pdb
+C:\Users\Leo\Desktop\Repositorio\ServantInfo\ServantInfoApi\ServantInfo.Requests\obj\Debug\ServantInfo.Requests.csprojAssemblyReference.cache
+C:\Users\Leo\Desktop\Repositorio\ServantInfo\ServantInfoApi\ServantInfo.Requests\obj\Debug\ServantInfo.Requests.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\Repositorio\ServantInfo\ServantInfoApi\ServantInfo.Requests\obj\Debug\ServantInfo.Requests.dll
+C:\Users\Leo\Desktop\Repositorio\ServantInfo\ServantInfoApi\ServantInfo.Requests\obj\Debug\ServantInfo.Requests.pdb
